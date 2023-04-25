@@ -1,11 +1,4 @@
-|app|US|CA|
-|-|-|-|
-| lad | fleet              | ff fleet retail |
-| lnv | ff fleet retail su | ff fleet retail |
-| oca |                    | ff fleet retail |
-| raq | ff fleet retail su | ff fleet retail |
-| rtd |                    | ff fleet retail |
-| crp | fleet              | fleet           |
-| ccc | ff fleet retail su |                 |
-| epm | ff fleet retail su |                 |
-| tia | ff fleet retail su |                 |
+|country|lnv|raq|ccc|epm|tia|lad|rtd|oca|crp|
+|-|-|-|-|-|-|-|-|-|-|
+| US      | retail<br>fleet<br>ff<br>su | retail<br>fleet<br>ff<br>su | retail<br>fleet<br>ff<br>su | retail<br>fleet<br>ff<br>su | retail<br>fleet<br>ff<br>su | fleet                 |                       |                       | fleet |
+| CA      | retail<br>fleet<br>ff       | retail<br>fleet<br>ff       |                             |                             |                             | retail<br>fleet<br>ff | retail<br>fleet<br>ff | retail<br>fleet<br>ff | fleet |
