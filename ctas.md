@@ -1,19 +1,11 @@
 Variants
-
-<br>
-
 |country|retail|fleet|ff|su|
 |-|-|-|-|-|
 | US      | lnv raq ccc epm tia | lnv raq ccc epm tia lad ctr | lnv raq ccc epm tia | lnv raq ccc epm tia |
 | CA      | lnv raq lad rtd oca | lnv raq lad rtd oca ctr     | lnv raq lad rtd oca |                     |
 
-
 <br>
-
 Apps
-
-<br>
-
 |country|retail|fleet|ff|su|
 |-|-|-|-|-|
 | US      | lnv raq ccc epm tia | lnv raq ccc epm tia lad ctr | lnv raq ccc epm tia | lnv raq ccc epm tia |
@@ -22,4 +14,4 @@ Apps
 
 <br>
 
-DoCtasTest - Tue Apr 25 06:57:55 MST 2023
+DoCtasTest - Tue Apr 25 06:58:56 MST 2023
