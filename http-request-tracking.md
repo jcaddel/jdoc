@@ -4,11 +4,6 @@
 | 2 | stp.http.request.cache.enabled | false | If true, http requests get cached in main memory (on each node). If this property is set to true, `stp.http.request.wrap.bodies` must also be true. |
 | 3 | stp.http.request.cache.max | 100,000 | Maximum number of http requests to cache in main memory (per node).  This property only has meaning if http request caching is enabled - `stp.http.request.cache.enabled=true` |
 | 4 | stp.http.request.persist.interval | 15m | This is the interval at which HttpLogPersister drains the cache and persists http request to Blob Storage (S3 Bucket on PCF) |
-
-
-
-<!-- If true, request bodies get wrapped, making it possible to read the request body more than once -->
-  <!-- This makes it possible to do other things with it (log it, persist it, etc) -->
-  <property key="stp.http.request.wrap.bodies">
-    <value text="false" />
-  </property>        
+| 5 | stp.http.request.attributes.prefix | none | Prefix for request attributes to include |
+| 6 | stp.http.request.cookies.prefix | * | Prefix for cookies to include |
+| 7 | stp.http.actuator.enabled | true | Turn actuator summary statistices on/off |
