@@ -6,4 +6,4 @@
 | 4 | stp.http.request.persist.interval | 15m | This is the interval at which HttpLogPersister drains the cache and persists http request to Blob Storage (S3 Bucket on PCF) |
 | 5 | stp.http.request.attributes.prefix | none | Prefix for request attributes to include |
 | 6 | stp.http.request.cookies.prefix | * | Prefix for cookies to include |
-| 7 | stp.http.actuator.enabled | true | Turn actuator summary statistices on/off |
+| 7 | stp.http.actuator.enabled | true | Turn summary statistices on/off |
