@@ -1,4 +1,4 @@
-chrome ModelConsumerInformation list from ModelConfiguration 
+chrome ModelConsumerInformation list from ModelConfiguration <br>
 `
 [ {
   "availableStyleIds" : [ 427822, 427819, 427816, 427821, 427818, 427815 ],
